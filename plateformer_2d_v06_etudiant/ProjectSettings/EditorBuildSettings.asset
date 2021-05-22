@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/01_menu_demarer.unity
+    guid: 9c3237110c5b06f4bb3cf616c66be46c
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/menu_pause.unity
+    guid: 20286d32f4fa3ca42be21ae59f313062
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/02_level01.unity
+    guid: c60203de03ab0db48b7a90d134e012a2
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/menu_ecran_win.unity
+    guid: 487cbb9749664a447821861465d93192
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/03_level02.unity
+    guid: 285ceb46a6359644289e6b808898748f
+  m_configObjects: {}
