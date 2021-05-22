@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: e990985310aec2f4991e446118b086b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3859150675064021276
+    second: elements decors_pierre_ok_0
+  - first:
+      213: -9146435177714910618
+    second: elements decors_pierre_ok_1
+  - first:
+      213: -330201156149470111
+    second: elements decors_pierre_ok_2
+  - first:
+      213: -785142658372742611
+    second: elements decors_pierre_ok_3
+  - first:
+      213: -5793503811549580847
+    second: elements decors_pierre_ok_4
+  - first:
+      213: 6756718899035981331
+    second: elements decors_pierre_ok_5
+  - first:
+      213: 8495148347533468470
+    second: elements decors_pierre_ok_6
+  - first:
+      213: -1028481375625136169
+    second: elements decors_pierre_ok_7
+  - first:
+      213: 991686441800667289
+    second: elements decors_pierre_ok_8
+  - first:
+      213: -1667412828784878214
+    second: elements decors_pierre_ok_9
+  - first:
+      213: -7198855361211791826
+    second: elements decors_pierre_ok_10
+  - first:
+      213: 8855886567923115188
+    second: elements decors_pierre_ok_11
+  - first:
+      213: -4981370324699841515
+    second: elements decors_pierre_ok_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 374
+        width: 186
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1166e1a7157e8530800000000000000
+      internalID: 3859150675064021276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 355
+        width: 191
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a7a2f6aa5511180800000000000000
+      internalID: -9146435177714910618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 110
+        width: 215
+        height: 255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c99474cc3ea6bf0800000000000000
+      internalID: -330201156149470111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 325
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22dfad79ec9a15f0800000000000000
+      internalID: -785142658372742611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 89
+        width: 82
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d137bb8af6599fa0800000000000000
+      internalID: -5793503811549580847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 133
+        width: 74
+        height: 163
+      alignment: 9
+      pivot: {x: 0.49137715, y: 0.32886454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31645304a00b4cd50800000000000000
+      internalID: 6756718899035981331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 158
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633aaf0b964d4e570800000000000000
+      internalID: 8495148347533468470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 78
+        width: 55
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d732c353a91ab1f0800000000000000
+      internalID: -1028481375625136169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 30
+        width: 56
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990991c809d23cd00800000000000000
+      internalID: 991686441800667289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 14
+        width: 138
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d1956ddd82cd8e0800000000000000
+      internalID: -1667412828784878214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 22
+        width: 77
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e260e8da037881c90800000000000000
+      internalID: -7198855361211791826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 20
+        width: 36
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e53cb9ed66ea70800000000000000
+      internalID: 8855886567923115188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elements decors_pierre_ok_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 445
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cf795051e9edab0800000000000000
+      internalID: -4981370324699841515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
